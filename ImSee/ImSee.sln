@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImSee", "ImSee\ImSee.csproj", "{C9C3FEC1-72BA-4239-957D-B2534C65CAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C3FEC1-72BA-4239-957D-B2534C65CAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C3FEC1-72BA-4239-957D-B2534C65CAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C3FEC1-72BA-4239-957D-B2534C65CAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C3FEC1-72BA-4239-957D-B2534C65CAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3ED7B65-866D-47E0-8891-367C251E1668}
+	EndGlobalSection
+EndGlobal

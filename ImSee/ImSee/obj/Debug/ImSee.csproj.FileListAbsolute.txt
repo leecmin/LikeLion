@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\bin\Debug\ImSee.exe.config
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\bin\Debug\ImSee.exe
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\bin\Debug\ImSee.pdb
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\obj\Debug\ImSee.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\obj\Debug\ImSee.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\obj\Debug\ImSee.exe
+C:\Users\user\Desktop\C#study\LikeLion\ImSee\ImSee\obj\Debug\ImSee.pdb
